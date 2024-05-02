@@ -3,6 +3,8 @@
 Create .env.local and add:
 `NEXT_PUBLIC_SENTRY_DSN="YOUR_SENTRY_DSN"`
 
+Open next.config.mjs and update 'org' and 'project' to your sentry org and project
+
 Install packages:
 `npm install`
 
